@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mailMis:war">
+    <output-path>$PROJECT_DIR$/mailMis/target</output-path>
+    <root id="archive" name="mail-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mailMis:war exploded" />
+    </root>
+  </artifact>
+</component>
